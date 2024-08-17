@@ -3,7 +3,7 @@
 # Step 6: Development - Implementing the Phishing Detector
 
 # Creating an instance of the PhishingDetector class
-detector = PhishingDetector()
+detector = PhishingGuard()
 
 # Loading a simulated model (in practice, this would be a complex ML model)
 detector.load_model("path_to_pretrained_model.pkl")

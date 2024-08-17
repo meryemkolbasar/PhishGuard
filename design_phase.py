@@ -6,7 +6,7 @@
 
 # Design a class structure for phishing detection
 
-class PhishingDetector:
+class PhishingGuard:
     """
     This class represents the phishing website detection system.
     """
