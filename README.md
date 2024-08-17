@@ -1,3 +1,5 @@
+![logo](https://www.ghsystems.com/hubfs/Phishing-01.gif)
+
 # PhishGuard
 
 **PhishDetector** is a Python-based software designed to detect phishing websites. Developed for CDE Bank, this software aims to enhance online security by identifying and alerting users about potential phishing threats in real-time. 
