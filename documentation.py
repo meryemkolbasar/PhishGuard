@@ -9,7 +9,9 @@ The project includes:
 3. Development and Testing
 4. Deployment and Monitoring
 
-The software was developed using Python, with a focus on backend functionality. It employs a simulated machine learning model for detecting phishing websites and has been thoroughly tested. The deployment to a live environment has been completed, and the system is under continuous monitoring.
+The software was developed using Python, with a focus on backend functionality. 
+It employs a simulated machine learning model for detecting phishing websites and has been thoroughly tested. 
+The deployment to a live environment has been completed, and the system is under continuous monitoring.
 """
 
 print("Project documentation created.")
