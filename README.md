@@ -4,6 +4,8 @@
 
 **PhishGuard** is a Python-based phishing website detection software developed for CDE Bank. This software aims to enhance online security by identifying and alerting users about potential phishing threats in real-time.
 
+> **Note:** This code was developed by Meryem Kolbasar for the 4.49 Software Engineering assignment.
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
@@ -35,18 +37,16 @@ The **PhishGuard** project is focused on developing a software tool to detect ph
 
 ## Tools and Technologies
 
-- **Programming Language**: Python
-- **Machine Learning Frameworks**: Scikit-learn, TensorFlow, Keras
-- **Web Development Tools**: Flask, Django (for potential UI integration)
-- **Version Control**: Git
+- **Programming Language:** Python
+- **Version Control:** Git
 
 ## How It Works
 
-### Project Initialization and Requirements Gathering
+### Step 1: Define the Project Scope
 
 ```python
 # project_initialization.py
-# This script initializes the project and defines the scope, objectives, and tools.
+# Defines the scope and objectives of the project.
 
 project_scope = """
 This project aims to design and implement a software tool that detects any website of phishing nature 
