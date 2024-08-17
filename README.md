@@ -2,7 +2,7 @@
 
 # PhishGuard
 
-**PhishDetector** is a Python-based software designed to detect phishing websites. Developed for CDE Bank, this software aims to enhance online security by identifying and alerting users about potential phishing threats in real-time. 
+**PhishGuard** is a Python-based phishing website detection software developed for CDE Bank. This software aims to enhance online security by identifying and alerting users about potential phishing threats in real-time.
 
 ## Table of Contents
 
@@ -19,18 +19,18 @@
 
 ## Project Overview
 
-The **PhishDetector** project is aimed at developing a software tool that detects phishing websites and provides alerts to users in real-time. It integrates with CDE Bank's online systems and features a user-friendly interface.
+The **PhishGuard** project is focused on developing a software tool to detect phishing websites and alert users in real-time. This tool integrates with CDE Bank's online systems and offers a user-friendly interface for both customers and internal staff.
 
 ## Objectives and Success Criteria
 
 **Objectives:**
-- Design a phishing detection system with an accuracy of 95% within six months.
-- Implement real-time detection and alert mechanisms.
-- Ensure the system is user-friendly and integrates smoothly with existing online platforms.
+- Develop a phishing detection system with 95% accuracy within six months.
+- Implement real-time detection and alert functionalities.
+- Ensure seamless integration with existing online platforms and a user-friendly interface.
 
 **Success Criteria:**
-- Positive user feedback.
-- Successful performance test results.
+- Positive feedback from users.
+- Successful performance tests.
 - Passing security audits and compliance checks.
 
 ## Tools and Technologies
